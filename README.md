@@ -18,10 +18,10 @@ This project is a **Video Subtitle Generator** that allows you to upload a video
 ## **Demo Videos**
 
 ### Original Video
-[![Original Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[Download Original Video](https://github.com/Psycho-Poodle/Video-Subtitle-Generator/raw/main/input_video.mp4)
 
 ### Output Video with Subtitles
-[![Output Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[Download Output Video](https://github.com/Psycho-Poodle/Video-Subtitle-Generator/raw/main/output_video.mp4)
 
 
 

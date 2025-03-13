@@ -1,4 +1,5 @@
 .venv
+.env
 myenv
 extracted_audio.mp3
 subtitle.srt
