@@ -1,11 +1,8 @@
-# gradio
-# assemblyai
-# python-dotenv
-# ffmpeg-python
-# moviepy==1.0.3
-gradio>=4.0.0
-moviepy>=1.0.3
-assemblyai>=0.20.0
+gradio
+assemblyai
+python-dotenv
+ffmpeg-python
+moviepy==1.0.3
 yt-dlp>=2023.11.14
 python-dotenv>=1.0.0
 load_dotenv

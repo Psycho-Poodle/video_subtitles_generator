@@ -14,7 +14,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # AssemblyAI API settings
-API_KEY = os.getenv("ASSEMBLYAI_API_KEY", "335c7fb7f8544ec58299700d43d8a592")
+API_KEY = os.getenv("ASSEMBLYAI_API_KEY")
+if not API_KEY:
+    raise ValueError("API key for AssemblyAI is not set. Please check your .env file.")
 aai.settings.api_key = API_KEY
 
 # Step 1: Download YouTube video if URL is provided
