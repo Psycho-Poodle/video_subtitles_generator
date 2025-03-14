@@ -46,7 +46,7 @@ You can try the project directly on Hugging Face:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Video-Subtitle-Generator.git
+git clone https://github.com/sycho-Poodle/Video-Subtitle-Generator.git
 cd Video-Subtitle-Generator
 ```
 
